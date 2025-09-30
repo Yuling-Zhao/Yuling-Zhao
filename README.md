@@ -2,7 +2,6 @@
 
 **Genomics Researcher | Machine Learning Enthusiast**
 
-<!--
 **Yuling-Zhao/Yuling-Zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I'm currently working on **genomic status and machine learning**
@@ -11,7 +10,6 @@
 - 🤔 I'm looking for help from **AI specialists**
 - 💬 Ask me about **my philosophy in genomic regulation**
 - 📫 How to reach me: **zhao@ie-freiburg.mpg.de**
--->
 
 ## 🧬 Research Interests
 - AI in Genomics
